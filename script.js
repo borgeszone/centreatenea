@@ -71,7 +71,7 @@ function debounce(func, delay) {
 }
 
 function cargarNoticias() {
-  fetch('/noticias.json')
+  fetch('noticias.json')
     .then(response => response.json())
     .then(data => {
       // Ordenar las noticias de más recientes a más antiguas
