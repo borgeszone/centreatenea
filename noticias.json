@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "ESTEM A PUNT PEL CURS 23_24",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBIeO2ZBzCCj3WA9n8NqmWDR0AHHnRu-lGuU1mVbSQ3vFtDEPmq9ubKPZQGVLKY94JKZSB_MhNQP8wUGORw5TaPh3jXoIuN4re3VnPlRZGTO4a8CJm5NaTDfv4grSxTCQ81Cl5uzVfMB0URT_bD5MMYBsslaozbOIwoDlQ3n4RaBfN05Tpvj7rHJHGdw/s500/Tornem%20ell%2028%20d%27agost!.png",
+    "fecha": "2025-05-01"
+  },
+  {
+    "id": 2,
+    "titulo": "NOVA ACTIVITAT, GRUP DE FAMÍLIES AMB FILLS TEA",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEielpJakdIwUJxnOCxdudaCaczdx5iaE1-ehyF9dEgRRUWE-T637pOKB69jYjuGH8oTHhr4xgv8BUJ64Bmj0G_HVBFAq7pIxz71HUs5ghOvFZEYarFwNOx4k-bZZp01sCYsaU2q7C4SNawJ8QcCsT4JHDhPasAjmGET-a_nYrtOPPx4SgdhKcp-Zbc/w640-h640/IMG-20221016-WA0000.jpg",
+    "fecha": "2025-05-02"
+  },
+  {
+    "id": 3,
+    "titulo": "AMB LES PILES CARREGADES!",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk8alV4OLLw65CL_Y6RxNxrk6cFxIdmNEIm1pXoT_bSpx-rI8lIyKqZ9ROB1s_rGDiKPgLMvIy8TKnYeuQaRyOm3oMlRJKPU9QTGXeryxiTPaqppOVybNN1QIDW1pWoNO41D20tEedp7Nzb5dyyLyNWWmGLH_Bxxd5DdwOPJ-w5TLv0q-bTs4aXRs/w640-h452/ATENEA.jpeg",
+    "fecha": "2025-05-03"
+  },
+  {
+    "id": 4,
+    "titulo": "La nostra proposta per aprendre anglès!!",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAjbAx_D1P5C2cTLmc3JwzYxoHtH7FlSJPNZN_YQjNpbXagocG-Knm8h9viFivrGkt2ztmrzJi0z-b2DQYQbYA8v7rijaT_u_FrepKNdeeOCtetkkC2L91XnFxOefOhtz46v0RvilDnP-0CqfqYb9smSl7xbMAZMi2ajd_ywjxyJnbjNtKThfk04/w466-h640/Escanejar.png",
+    "fecha": "2025-05-01"
+  },
+  {
+    "id": 7,
+    "titulo": "La nostra proposta per aprendre anglès!!",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAjbAx_D1P5C2cTLmc3JwzYxoHtH7FlSJPNZN_YQjNpbXagocG-Knm8h9viFivrGkt2ztmrzJi0z-b2DQYQbYA8v7rijaT_u_FrepKNdeeOCtetkkC2L91XnFxOefOhtz46v0RvilDnP-0CqfqYb9smSl7xbMAZMi2ajd_ywjxyJnbjNtKThfk04/w466-h640/Escanejar.png",
+    "fecha": "2025-08-20"
+  },
+  {
+    "id": 5,
+    "titulo": "PREPARA EL NOU CURS, COMENCEM A FINALS  D'AGOST!",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdPSfxGZ58oE2Aiati-cl4spfifNzCuAhnP72QgVkH09nW-RELSjCCWgoqxQdvfRaCgYCMEUXnlwqgKOhF-WZnhlNq2pPzCzQ9pAgH2GPo-lwC49KVSvYsHzDIRfStXM-6LYTBSng41m3eb7h7wfFDOb4h5zd-qcrrdzo0AutFUyP2cSh6XaJJ_U/w456-h640/Copia%20de%20intensiu%20setembre.png",
+    "fecha": "2025-05-02"
+  },
+  {
+    "id": 6,
+    "titulo": "ACTIVITATS AL CENTRE ATENEA AL JULIOL!",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKP1Pl5AXPy9ObDF0sCntq8Gbs0HUEl2zrgZ-tAlaYWPzWtzGL5J6P9eYEtcrUlCD6QSn4nWDoxjcwavwt_zNvnUt8Z5FZfXuLXq7prRs_TLOH6Ke33gCROiUUmggvvXzd_-KPPtBpkeGfdtgOkUQ23MfkmMzV-LjN9xlsPDWf2XvgdYwnS12mJM/w493-h493/IMG-20220617-WA0004.jpg",
+    "fecha": "2025-05-03"
+  }
+]
