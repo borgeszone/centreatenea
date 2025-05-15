@@ -76,7 +76,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"></script>
     <script>
         // Cargar el footer dinámicamente
-        fetch("footer.html")
+        fetch("/footer.html")
             .then(response => response.text())
             .then(data => document.getElementById("footer-container").innerHTML = data)
             .catch(error => console.error("Error cargando el footer:", error));
