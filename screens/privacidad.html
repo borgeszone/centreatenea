@@ -161,11 +161,17 @@
       // Cargar el footer dinámicamente
       fetch("footer.html")
         .then((response) => response.text())
-        .then(
-          (data) =>
-            (document.getElementById("footer-container").innerHTML = data)
-        )
-        .catch((error) => console.error("Error cargando el footer:", error));
+        .then((data) => {
+          document.getElementById("footer-container").innerHTML = data;
+
+          // Ajustar la ruta del logo según la página
+          const logo = document.getElementById("footer-logo");
+          if (location.pathname.includes("screens/")) {
+            logo.src = "../images/logo.png";
+          } else {
+            logo.src = "images/logo.png";
+          }
+        });
 
       fetch("navbar.html")
         .then((response) => response.text())

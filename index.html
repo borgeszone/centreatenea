@@ -136,8 +136,22 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"></script>
     <script>
-      // Cargar navbar y footer dinámicamente
-      fetch("screens/navbar.html")
+       // Cargar el footer dinámicamente
+      fetch("footer.html")
+        .then((response) => response.text())
+        .then((data) => {
+          document.getElementById("footer-container").innerHTML = data;
+
+          // Ajustar la ruta del logo según la página
+          const logo = document.getElementById("footer-logo");
+          if (location.pathname.includes("screens/")) {
+            logo.src = "../images/logo.png";
+          } else {
+            logo.src = "images/logo.png";
+          }
+        });
+
+      fetch("navbar.html")
         .then((response) => response.text())
         .then((data) => {
           document.getElementById("navbar-container").innerHTML = data;
@@ -150,14 +164,6 @@
             logo.src = "images/logo.png";
           }
         });
-
-      fetch("screens/footer.html")
-        .then((response) => response.text())
-        .then(
-          (data) =>
-            (document.getElementById("footer-container").innerHTML = data)
-        )
-        .catch((error) => console.error("Error cargando el footer:", error));
     </script>
   </body>
 </html>
